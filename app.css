@@ -1,12 +1,13 @@
 :root {
     /* Palette: High-Contrast Obsidian - Maximum Legibility */
-    --primary: #ffd700; /* Amber Gold for accents only */
+    --primary: #9d50bb; /* Premium Electric Purple */
+    --primary-glow: rgba(157, 80, 187, 0.4);
     --bg-black: #000000;
     --card-surface: #0e0e12;
     --border: #222222;
-    --text-pure: #ffffff; /* Absolute white for content */
+    --text-pure: #ffffff;
     --text-dim: #a0a0a0;
-    --accent-blue: #0078d4;
+    --accent-blue: #6e48aa; /* Darker Purple/Blue hybrid */
 }
 
 * { 
